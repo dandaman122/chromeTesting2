@@ -3,10 +3,10 @@ function die() {
 
     console.log('hello');
 
- for (let i = 0; i < 4; i++) {
+/* for (let i = 0; i < 4; i++) {
     die();
-  }  
+  }  */
 
-   /* while(1 == 1) {
+   while(1 == 1) {
     die();
-  } */
+  }
